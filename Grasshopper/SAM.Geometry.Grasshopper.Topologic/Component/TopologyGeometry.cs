@@ -25,7 +25,7 @@ namespace SAM.Geometry.Grasshopper.Topologic
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Resources.SAM_Topologic3a;
+        protected override System.Drawing.Bitmap Icon => Resources.SAM_GH_GeometryConvert;
 
         public TopologyGeometry()
           : base("Topology.Geometry", "Topology.Geometry", "Convert Topologic Geometry to Grasshopper Geometry", "SAM", "Topologic")

@@ -25,7 +25,7 @@ namespace SAM.Geometry.Grasshopper.Topologic
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Resources.SAM_Topologic3a;
+        protected override System.Drawing.Bitmap Icon => Resources.SAM_GH_FaceTriangulate;
 
         public TopologyTriangulate()
           : base("Topology.Triangulate", "Topology.Triangulate", "Triangulates Topology (Faces only)", "SAM", "Topologic")
