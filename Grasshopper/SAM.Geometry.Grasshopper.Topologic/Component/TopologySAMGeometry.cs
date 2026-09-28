@@ -24,7 +24,7 @@ namespace SAM.Geometry.Grasshopper.Topologic
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_Topologic3a;
+        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_GH_GeometryImport;
 
         /// <summary>
         /// Initializes a new instance of the SAMGeometryByGHGeometry class.

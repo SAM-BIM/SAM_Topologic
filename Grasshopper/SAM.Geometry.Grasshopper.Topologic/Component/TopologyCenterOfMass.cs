@@ -24,7 +24,7 @@ namespace SAM.Geometry.Grasshopper.Topologic
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_Topologic3a;
+        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_GH_PointsCalculate;
 
         public TopologyCenterOfMass()
           : base("Topology.CenterOfMass", "Topology.CenterOfMass", "Center Of Mass for Topology", "SAM", "Topologic")

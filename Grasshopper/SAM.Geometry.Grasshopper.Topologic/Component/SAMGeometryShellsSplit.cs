@@ -23,7 +23,7 @@ namespace SAM.Geometry.Grasshopper.Topologic
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Resources.SAM_Topologic3a;
+        protected override System.Drawing.Bitmap Icon => Resources.SAM_GH_ShellSplit;
 
         public override GH_Exposure Exposure => GH_Exposure.primary;
 

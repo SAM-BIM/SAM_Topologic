@@ -24,7 +24,7 @@ namespace SAM.Geometry.Grasshopper.Topologic
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_Topologic3a;
+        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_GH_CellComplexValidate;
 
         public TopologyCellContains()
           : base("Topology.CellContains", "Topology.CellContains", "Check if a Vertex is contained in a Cell or not", "SAM", "Topologic")

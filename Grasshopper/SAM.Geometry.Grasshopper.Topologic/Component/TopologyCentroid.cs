@@ -24,7 +24,7 @@ namespace SAM.Geometry.Grasshopper.Topologic
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_Topologic3a;
+        protected override System.Drawing.Bitmap Icon => Properties.Resources.SAM_GH_PointsGet;
 
         public TopologyCentroid()
           : base("Topology.Centroid", "Topology.Centroid", "Calculate Centroid of Topology", "SAM", "Topologic")

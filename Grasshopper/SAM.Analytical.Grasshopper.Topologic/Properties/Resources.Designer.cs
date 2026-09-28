@@ -99,5 +99,65 @@ namespace SAM.Analytical.Grasshopper.Topologic.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexAnalyse {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexAnalyse", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexCreate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexCreate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_ClusterCreate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_ClusterCreate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_ClusterGet {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_ClusterGet", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_FacePluralGet {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_FacePluralGet", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_ObjectExport {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_ObjectExport", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

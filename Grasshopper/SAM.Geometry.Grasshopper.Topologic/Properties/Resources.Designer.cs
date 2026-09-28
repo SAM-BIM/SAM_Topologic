@@ -99,5 +99,145 @@ namespace SAM.Geometry.Grasshopper.Topologic.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexConvert {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexConvert", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexCreate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexCreate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexInspect {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexInspect", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexPluralCreate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexPluralCreate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexSplit {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexSplit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_CellComplexValidate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_CellComplexValidate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_FaceTriangulate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_FaceTriangulate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_GeometryConvert {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_GeometryConvert", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_GeometryExport {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_GeometryExport", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_GeometryImport {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_GeometryImport", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_PointsCalculate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_PointsCalculate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_PointsGet {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_PointsGet", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_ShellPluralCreate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_ShellPluralCreate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_ShellSplit {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_ShellSplit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
