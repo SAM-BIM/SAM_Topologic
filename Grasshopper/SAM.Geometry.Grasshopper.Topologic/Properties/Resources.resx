@@ -130,4 +130,46 @@
   <data name="SAM_Topologic3a" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SAM_Topologic3a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="SAM_GH_CellComplexConvert" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_CellComplexConvert.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_CellComplexCreate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_CellComplexCreate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_CellComplexInspect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_CellComplexInspect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_CellComplexPluralCreate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_CellComplexPluralCreate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_CellComplexSplit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_CellComplexSplit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_CellComplexValidate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_CellComplexValidate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_FaceTriangulate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_FaceTriangulate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_GeometryConvert" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_GeometryConvert.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_GeometryExport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_GeometryExport.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_GeometryImport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_GeometryImport.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_PointsCalculate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_PointsCalculate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_PointsGet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_PointsGet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_ShellPluralCreate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_ShellPluralCreate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SAM_GH_ShellSplit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons\SAM_GH_ShellSplit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
