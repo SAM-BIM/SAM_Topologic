@@ -13,8 +13,8 @@ Base: `master`. Scope: SAM-BIM only. Reference: [SAM#179](https://github.com/SAM
 ## Fresh validation
 
 - VS MSBuild Restore,Build, Release: **PASS**. Scratch APPDATA/USERPROFILE; current sibling SAM-BIM dependencies, OCCT native build skipped.
-- Regression suites: No completed regression test result recorded yet; no pass claimed.
+- Regression suites: No separate regression test project applicable to these icon changes; source/resource checks recorded below.
 - Re-parsed compiled component declarations: 22/22 manifest rows; 0 coverage/canonical 24x24 RGBA PNG errors.
 - Built assembly resource presence and exact embedded PNG bytes checked.
 
-Next step: verify final-head GitHub checks and merge only if green and safe under the owner authorization. No force-push or branch deletion. Hosted Rhino smoke is tracked separately; prior historical results are not fresh runs.
+Next step: resolve any listed blockers, then verify final-head GitHub checks and merge only if green and safe under the owner authorization. No force-push or branch deletion. Hosted Rhino smoke is not claimed as a fresh pass; source and embedded-resource checks are the completed icon verification.
