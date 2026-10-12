@@ -1,3 +1,5 @@
+> **Archived (2026-10-12) - deprecated.** SAM_Topologic is replaced by [SAM_OCCT](https://github.com/SAM-BIM/SAM_OCCT): SAM_OCCT replaced it in the SAM_Deploy build and in the Revit topology conversion (SAM.Analytical.Revit.UI). It was removed from SAM_Deploy in August 2026 and is not part of any current SAM release. It is kept read-only, with all its history and branches, for reference.
+
 [![Build (Windows)](https://github.com/SAM-BIM/SAM_Topologic/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SAM-BIM/SAM_Topologic/actions/workflows/build.yml)
 [![Installer (latest)](https://img.shields.io/github/v/release/SAM-BIM/SAM_Deploy?label=installer)](https://github.com/SAM-BIM/SAM_Deploy/releases/latest)
 
